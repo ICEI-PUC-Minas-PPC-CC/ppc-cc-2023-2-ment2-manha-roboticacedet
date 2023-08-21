@@ -1,19 +1,19 @@
 # TÍTULO DO PROJETO
 
 `PPC-CC: PUC Poços de Caldas - Ciência da Computação`
-`Disciplina: NOME DA DISCIPLINA`
-`20XX - Semestre XX`
+`Disciplina: Mentoring II`
+`2023 - Semestre 02`
 
 ## Integrantes
 
-- Jeff Bezos
+- Matheus Brunheroto
 - Bill Gates
 - Larry Ellison
 - Mark Zuckerberg
 
 ## Professor
 
-- Mestre Yoda
+- Luciana De Nardin
 
 # Documentação
 
