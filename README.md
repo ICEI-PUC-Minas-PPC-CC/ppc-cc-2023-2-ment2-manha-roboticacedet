@@ -7,9 +7,8 @@
 ## Integrantes
 
 - Matheus Brunheroto
-- Bill Gates
+- Pedro Victor Costa Barbosa
 - Pedro Henrique de Oliveira Fonseca
-- Mark Zuckerberg
 
 ## Professor
 
