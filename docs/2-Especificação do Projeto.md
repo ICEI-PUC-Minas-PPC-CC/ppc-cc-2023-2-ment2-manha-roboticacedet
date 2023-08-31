@@ -15,8 +15,13 @@ Exemplo:
 
 |**Midori Souza**|           |                             | 
 |-------------------|-----------|-----------------------------|
-<img src="https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2023-2-ment2-manha-roboticacedet/assets/142806552/fd49b2c9-531d-4ec8-89cf-ed90d8420a42" width="200" height="200"/>|**Idade:** 14 anos. **Naturalidade:** Campinas - São Paulo. **Ocupação:** Estudante do CEDET.       |**Atribuições:** Estudar. 
+<img src="https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2023-2-ment2-manha-roboticacedet/assets/142806552/fd49b2c9-531d-4ec8-89cf-ed90d8420a42" width="200" height="200"/>|**Idade:** 14 anos. **Naturalidade:** Poços de Caldas - Minas Gerais. **Ocupação:** Estudante do CEDET.       |**Atribuições:** Estudar. 
 |**Motivações:** Deseja expandir seu conhecimento em diversas áreas para conseguir entrar na faculdade que ele quiser.  |**Frustações:** A escola está sendo incapaz de suprir sua "sede" de conhecimento.   |**Hobbies, história:** Gosta de ler em seu tempo vago.
+
+|**Rafaela Silva**|           |                             | 
+|-------------------|-----------|-----------------------------|
+<img src="https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2023-2-ment2-manha-roboticacedet/assets/138339001/94ae72dd-92e9-44f2-b7dd-801247bd4f2a" width="200" height="200"/>|**Idade:** 15 anos. **Naturalidade:** Poços de Caldas - Minas Gerais. **Ocupação:** Estudante do CEDET.       |**Atribuições:** Estudar. 
+|**Motivações:** Sempre foi fascinada por desmontar objetos e entender como funcionam.  |**Frustações:** Sua escola não oferecia aulas de robótica, deixando-a frustrada ao ver outras escolas com essas oportunidades.   |**Hobbies, história:** Seu pai, um engenheiro, a envolveu em projetos de eletrônica e programação, alimentando seu interesse. Sua motivação para fazer aulas de robótica nasceu do desejo de transformar suas ideias em realidade e contribuir para a sociedade. 
 
 Enumere e detalhe as personas da sua solução. Para isso, se necessário, leia um pouco mais sobre o assunto nos seguintes links:
 
@@ -42,6 +47,8 @@ Exemplo:
 |--------------------|------------------------------------|----------------------------------------|
 |Caio Nakamoto | Aprender robótica | Construir um robô que sempre foi meu sonho. |
 |Midori Souza | Quero ampliar minhas áreas de conhecimento | Passar na faculdade que quiser. |
+|Rafaela Silva | Aprender robótica | Levar as suas ideias para a vida real e com isso melhorar a socidade. |
+
 
 Apresente aqui as histórias de usuário que são relevantes para o projeto de sua solução ou para execução da sua prática extensionista/curso. As Histórias de Usuário consistem em uma ferramenta poderosa para a compreensão e elicitação dos requisitos funcionais e não funcionais da sua aplicação e também para identificar as dores que sua prática extensionista irá minimizar/sanar. Se possível, agrupe as histórias de usuário por contexto, para facilitar consultas recorrentes à essa parte do documento.
 
