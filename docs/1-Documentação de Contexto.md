@@ -1,5 +1,8 @@
+<!-- ✔️ -->
 # Introdução
-O CEDET é o Centro para o Desenvolvimento do Potencial e Talento, ele visa direcionar o estudo e desenvolvimento social para crianças que apresentem características de Altas Habilidades/Superdotação da rede de escolas municipais das cidades que estão instalados.
+O CEDET, ou Centro para o Desenvolvimento do Potencial e Talento, assume a missão de apoiar crianças com habilidades promissoras nas escolas municipais. Nossa iniciativa visa oferecer suporte aos alunos que demonstram potencial, especialmente no campo da Tecnologia da Informação (TI), por meio da exploração da robótica como ferramenta educativa. Buscamos despertar o interesse dos jovens por essa área e, como resultado, almejamos contribuir para o crescimento do número de profissionais qualificados nesse setor.
+
+Reconhecemos que nosso impacto inicial pode ser limitado, mas estamos firmemente empenhados em ser parte da solução para a escassez de profissionais capacitados no Brasil, especialmente na indústria de TI. Cada criança que alcançamos e introduzimos ao mundo da tecnologia da informação representa um pequeno passo em direção a um futuro mais sólido e habilidoso no setor tecnológico do país. Através do CEDET, estamos investindo não apenas em indivíduos talentosos, mas também na prosperidade futura da indústria e na construção de uma base sólida de habilidades.
 
 ## Problema
 Desde o surgimento da área de TI no Brasil, há uma falta de profissionais qualificados para atender a demanda do mercado.
