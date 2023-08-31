@@ -8,7 +8,7 @@
 
 - Matheus Brunheroto
 - Bill Gates
-- Larry Ellison
+- Pedro Henrique de Oliveira Fonseca
 - Mark Zuckerberg
 
 ## Professor
