@@ -35,10 +35,20 @@ Buscamos aprimorar as habilidades técnicas e criativas das crianças na área d
 > - [Ctrl+Play - Os benefícios de aprender robótica na infância](https://ctrlplay.com.br/robotica-na-infancia/)
 
 
+<!-- ✔️ -->
 ## Justificativa
-Segundo o censo de 2020, cerca de 24 mil crianças são superdotadas, o CEDET de Poços de Caldas atende apenas xxx dessas crianças. Com os recursos que temos, é possível atingir pelo menos 20 dessas crianças com a área de TI.
+A relevância desse tema reside na necessidade de empoderar crianças superdotadas e endereçar a carência de profissionais qualificados na área de TI no Brasil. Optamos por nossos objetivos específicos por duas razões fundamentais:
+
+Primeiro, dados do censo de 2020 demonstram a presença de cerca de 24 mil crianças superdotadas. Contudo, o CEDET de Poços de Caldas atende a apenas uma parcela pequena delas. Essa diferença sugere a importância de ampliar nossas ações para alcançar mais crianças e desencadear seu potencial inexplorado.
+
+Segundo, em relação ao problema da escassez de profissionais qualificados em TI, a abordagem prática e focada em robótica pode ajudar a diminuir essa defasagem. A demanda por profissionais nesse campo tem se intensificado, prejudicando a competitividade das empresas e a inovação tecnológica do país. Ao concentrar nossos esforços em introduzir pelo menos 20 crianças à área de TI, buscamos não apenas direcionar o desenvolvimento de futuros talentos, mas também aliviar o impacto do déficit de profissionais qualificados na indústria.
+
+Essas escolhas se justificam pelo potencial transformador tanto para os indivíduos envolvidos quanto para o cenário tecnológico do Brasil, e alinham-se com dados e estudos que demonstram a necessidade urgente de abordar essas questões para o progresso sustentável do país.
+
 > **Links Úteis**:
 > - [EBC - Mais de 24 mil Crianças no Brasil são Superdotadas](https://agenciabrasil.ebc.com.br/geral/noticia/2021-08/Mais-de-24-mil-criancas-no-brasil-sao-superdotadas-mostra-censo#:~:text=No%20Brasil%2C%20de%20acordo%20com,de%20alta%20habilidade%20ou%20superdota%C3%A7%C3%A3o.)
 
+
+<!-- ✔️ -->
 ## Público-Alvo
 Nosso público alvo são as crianças do grupo de altas habilidades de Poços de Caldas. Elas são movidas a desafios e possuem muita motivação para aprender.
