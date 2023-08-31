@@ -13,7 +13,7 @@
 <img src="https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2023-2-ment2-manha-roboticacedet/assets/142806552/fd49b2c9-531d-4ec8-89cf-ed90d8420a42)" width="200" height="200"/>|**Idade:** 15 anos. **Naturalidade:** Poços de Caldas - Minas Gerais. **Ocupação:** Estudante do CEDET.       |**Atribuições:** Estudar. 
 |**Motivações:** Sempre foi fascinada por desmontar objetos e entender como funcionam.  |**Frustações:** Sua escola não oferecia aulas de robótica, deixando-a frustrada ao ver outras escolas com essas oportunidades.   |**Hobbies, história:** Seu pai, um engenheiro, a envolveu em projetos de eletrônica e programação, alimentando seu interesse. Sua motivação para fazer aulas de robótica nasceu do desejo de transformar suas ideias em realidade e contribuir para a sociedade. 
 
-## Histórias de Usuários
+## Histórias de Futuros Alunos do Curso de Robótica
 
 Com base na análise das personas, foram identificadas as seguintes histórias de usuários:
 
