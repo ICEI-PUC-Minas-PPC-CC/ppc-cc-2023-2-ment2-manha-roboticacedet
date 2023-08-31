@@ -8,10 +8,10 @@ Definição do problema e ideia de solução a partir da perspectiva do usuário
 
 Exemplo:
 
-|**Camila Fiães**|           |                             | 
+|**Caio Nakamoto**|           |                             | 
 |-------------------|-----------|-----------------------------|
-<img src="https://github.com/ICEI-PUC-Minas-PPC-CC/Template-MentoringII/blob/main/docs/img/camilafiaes.png" width="200" height="200"/>|**Idade:** 38 anos. **Naturalidade:** Contagem - Minas Gerais. **Ocupação:** Caixa de Supermercado.       |**Atribuições:** gerenciar operações com clientes usando caixas registradoras. 
-|**Motivações:** Deseja organizar e ter fácil acesso aos documentos médicos do seu filho que tem asma.  |**Frustações:** dificuldade para gerenciar a vida profissional e pessoal, pois, além de trabalhar fora, quando chega em casa tem de desempenhar os papeis de mãe, esposa e dona de casa. Ainda, o seu filho de 09 anos tem asma, portanto necessita de tratamento contínuo e atenção redobrada.   |**Hobbies, história:** almeja conseguir conciliar os diferentes papéis que exerce, pois atualmente está se sentindo extremamente sobrecarregada e por isso busca métodos para otimizar o seu tempo e esforço.
+<img src="(https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2023-2-ment2-manha-roboticacedet/assets/142806552/867674c4-7c24-4cb2-9cc6-25f8505c968c)" width="200" height="200"/>|**Idade:** 13 anos. **Naturalidade:** Poços de Caldas - Minas Gerais. **Ocupação:** Estudante do CEDET.       |**Atribuições:** Estudar. 
+|**Motivações:** Sempre se interessou por robótica e pela área.  |**Frustações:** Nunca teve a oportunidade de ter contato com a área porque a sua escola não havia programa de robótica.   |**Hobbies, história:** Almeja conseguir construir um robô com as habilidades que adquirir no curso de robótica e com isso alcançando seu sonho.
 
 Enumere e detalhe as personas da sua solução. Para isso, se necessário, leia um pouco mais sobre o assunto nos seguintes links:
 
@@ -35,7 +35,7 @@ Exemplo:
 
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
-|Camila Fiães | Otimizar meu tempo e esforço | Conciliar os diferentes papéis que exerço. |
+|Caio Nakamoto | Aprender robótica | Construir um robô que sempre foi seu sonho. |
 |Camila Fiães | Ter acesso rápido e completo às informações sobre a doença de seu filho | Passar os detalhes para os médicos. |
 
 Apresente aqui as histórias de usuário que são relevantes para o projeto de sua solução ou para execução da sua prática extensionista/curso. As Histórias de Usuário consistem em uma ferramenta poderosa para a compreensão e elicitação dos requisitos funcionais e não funcionais da sua aplicação e também para identificar as dores que sua prática extensionista irá minimizar/sanar. Se possível, agrupe as histórias de usuário por contexto, para facilitar consultas recorrentes à essa parte do documento.
