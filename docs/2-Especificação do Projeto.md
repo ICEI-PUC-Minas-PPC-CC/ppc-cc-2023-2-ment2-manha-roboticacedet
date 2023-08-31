@@ -22,5 +22,8 @@ Exemplo:
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
 |Caio Nakamoto | Aprender robótica | Construir um robô que sempre foi meu sonho. |
-|Caio Nakamoto | Aprender robótica | Levar as suas ideias para a vida real e com isso melhorar a socidade. |
-|Midori Souza | Quero ampliar minhas áreas de conhecimento | Passar na faculdade que quiser. |
+|Caio Nakamoto | Desafios estimulantes | Para desenvolver melhor a minha criatividade. |
+|Caio Nakamoto | Explorar minha proeficiencia técnica | Para ficar mais preparado para seguir essa área profissionalmente. |
+|Midori Souza | Quero ampliar minhas áreas de conhecimento | Passar na faculdade que eu quiser. |
+|Midori Souza | Quero desmontar objetos como meu pai. | Para compreender como eles funcionam. |
+|Midori Souza | Impactar a sociedade | Porque quero tranformar ideias inteligiveis em algo palpavel. |
