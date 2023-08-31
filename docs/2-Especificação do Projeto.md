@@ -10,7 +10,7 @@ Exemplo:
 
 |**Caio Nakamoto**|           |                             | 
 |-------------------|-----------|-----------------------------|
-<img src="(https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2023-2-ment2-manha-roboticacedet/assets/142806552/867674c4-7c24-4cb2-9cc6-25f8505c968c)" width="200" height="200"/>|**Idade:** 13 anos. **Naturalidade:** Poços de Caldas - Minas Gerais. **Ocupação:** Estudante do CEDET.       |**Atribuições:** Estudar. 
+<img src="https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2023-2-ment2-manha-roboticacedet/assets/142806552/867674c4-7c24-4cb2-9cc6-25f8505c968c" width="200" height="200"/>|**Idade:** 13 anos. **Naturalidade:** Poços de Caldas - Minas Gerais. **Ocupação:** Estudante do CEDET.       |**Atribuições:** Estudar. 
 |**Motivações:** Sempre se interessou por robótica e pela área.  |**Frustações:** Nunca teve a oportunidade de ter contato com a área porque a sua escola não havia programa de robótica.   |**Hobbies, história:** Almeja conseguir construir um robô com as habilidades que adquirir no curso de robótica e com isso alcançando seu sonho.
 
 Enumere e detalhe as personas da sua solução. Para isso, se necessário, leia um pouco mais sobre o assunto nos seguintes links:
