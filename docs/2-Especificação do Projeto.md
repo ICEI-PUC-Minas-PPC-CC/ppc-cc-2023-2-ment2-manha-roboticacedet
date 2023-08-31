@@ -13,6 +13,11 @@ Exemplo:
 <img src="https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2023-2-ment2-manha-roboticacedet/assets/142806552/867674c4-7c24-4cb2-9cc6-25f8505c968c" width="200" height="200"/>|**Idade:** 13 anos. **Naturalidade:** Poços de Caldas - Minas Gerais. **Ocupação:** Estudante do CEDET.       |**Atribuições:** Estudar. 
 |**Motivações:** Sempre se interessou por robótica e pela área.  |**Frustações:** Nunca teve a oportunidade de ter contato com a área porque a sua escola não havia programa de robótica.   |**Hobbies, história:** Almeja conseguir construir um robô com as habilidades que adquirir no curso de robótica e com isso alcançando seu sonho.
 
+|**Midori Souza**|           |                             | 
+|-------------------|-----------|-----------------------------|
+<img src="https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2023-2-ment2-manha-roboticacedet/assets/142806552/fd49b2c9-531d-4ec8-89cf-ed90d8420a42" width="200" height="200"/>|**Idade:** 14 anos. **Naturalidade:** Campinas - São Paulo. **Ocupação:** Estudante do CEDET.       |**Atribuições:** Estudar. 
+|**Motivações:** Deseja expandir seu conhecimento em diversas áreas para conseguir entrar na faculdade que ele quiser.  |**Frustações:** A escola está sendo incapaz de suprir sua "sede" de conhecimento.   |**Hobbies, história:** Gosta de ler em seu tempo vago.
+
 Enumere e detalhe as personas da sua solução. Para isso, se necessário, leia um pouco mais sobre o assunto nos seguintes links:
 
 > **Links Úteis**:
