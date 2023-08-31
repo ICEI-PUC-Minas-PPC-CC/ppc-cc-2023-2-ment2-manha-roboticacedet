@@ -12,11 +12,21 @@ Desde o surgimento da área de TI no Brasil, há uma falta de profissionais qual
 > - [G1 - Sobram Vagas no Setor de Tecnologia no Brasil](https://g1.globo.com/jornal-nacional/noticia/2022/09/29/sobram-vagas-no-setor-de-tecnologia-no-brasil-por-falta-de-profissionais-qualificados.ghtml)
 > - [Gazeta do Povo - Brasil Vai Precisar de Quase 800 mil Profissionais de TI até 2025](https://www.gazetadopovo.com.br/gazz-conecta/brasil-vai-precisar-de-quase-800-mil-profissionais-de-ti-ate-2025/)
 
+<!-- ✔️ -->
 ## Objetivos
-Para minimizar o problema que desejamos solucionar, as crianças do CEDET terão dentro da PUC Minas Poços de Caldas, aulas direcionadas para a robótica, no caso, a Introdução ao Arduino.
- 
+**Objetivo Geral :**
+O trabalho a ser realizado pelo nosso grupo visa abordar de maneira eficaz a problemática apresentada anteriormente. Nossa meta principal é promover o desenvolvimento das crianças do CEDET, pertencentes ao grupo de altas habilidades de Poços de Caldas, por meio de um programa educacional focado na robótica e na introdução ao Arduino. Pretendemos despertar a curiosidade, a criatividade e a habilidade de resolução de problemas desses jovens talentos, contribuindo assim para o desenvolvimento de suas aptidões e para a formação de futuros profissionais capacitados na área de tecnologia.
+
+**Objetivos Específicos :**
+
+*Estimular o Trabalho em Equipe e a Colaboração :* Propomos estimular habilidades de trabalho em equipe e colaboração entre as crianças do CEDET durante o processo de aprendizado em robótica. Através de projetos práticos que exigem a cooperação e a troca de ideias, esperamos cultivar não apenas suas capacidades técnicas, mas também sua capacidade de trabalhar em grupos, preparando-os para os desafios do mundo profissional e social.
+
+*Desenvolver Habilidades Técnicas e Criativas :* 
+Buscamos aprimorar as habilidades técnicas e criativas das crianças na área de robótica. Ao longo das aulas e atividades, proporcionaremos oportunidades para que elas adquiram conhecimentos sólidos em programação, eletrônica e montagem de projetos, estimulando sua capacidade de materializar suas ideias inovadoras.
+
 > **Links Úteis**:
 > - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
+
 
 ## Justificativa
 Segundo o censo de 2020, cerca de 24 mil crianças são superdotadas, o CEDET de Poços de Caldas atende apenas xxx dessas crianças. Com os recursos que temos, é possível atingir pelo menos 20 dessas crianças com a área de TI.
