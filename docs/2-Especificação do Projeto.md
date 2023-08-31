@@ -16,7 +16,7 @@ Exemplo:
 |**Midori Souza**|           |                             | 
 |-------------------|-----------|-----------------------------|
 <img src="https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2023-2-ment2-manha-roboticacedet/assets/142806552/fd49b2c9-531d-4ec8-89cf-ed90d8420a42" width="200" height="200"/>|**Idade:** 14 anos. **Naturalidade:** Poços de Caldas - Minas Gerais. **Ocupação:** Estudante do CEDET.       |**Atribuições:** Estudar. 
-|**Motivações:** Deseja expandir seu conhecimento em diversas áreas para conseguir entrar na faculdade que ele quiser.  |**Frustações:** A escola está sendo incapaz de suprir sua "sede" de conhecimento.   |**Hobbies, história:** Gosta de ler em seu tempo vago.
+|**Motivações:** Deseja expandir seu conhecimento em diversas áreas para conseguir entrar na faculdade que ela quiser.  |**Frustações:** A escola está sendo incapaz de suprir sua "sede" de conhecimento.   |**Hobbies, história:** Gosta de ler em seu tempo vago.
 
 |**Rafaela Silva**|           |                             | 
 |-------------------|-----------|-----------------------------|
