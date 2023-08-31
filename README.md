@@ -1,4 +1,4 @@
-# TÍTULO DO PROJETO
+# Aulas de Robótica CEDET
 
 `PPC-CC: PUC Poços de Caldas - Ciência da Computação`
 `Disciplina: Mentoring II`
