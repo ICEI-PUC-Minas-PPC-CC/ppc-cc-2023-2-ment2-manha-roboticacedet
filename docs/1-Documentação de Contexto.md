@@ -39,7 +39,7 @@ Buscamos aprimorar as habilidades técnicas e criativas das crianças na área d
 ## Justificativa
 A relevância desse tema reside na necessidade de empoderar crianças superdotadas e endereçar a carência de profissionais qualificados na área de TI no Brasil. Optamos por nossos objetivos específicos por duas razões fundamentais:
 
-Primeiro, dados do censo de 2020 demonstram a presença de cerca de 24 mil crianças superdotadas. Contudo, o CEDET de Poços de Caldas atende a apenas uma parcela pequena delas. Essa diferença sugere a importância de ampliar nossas ações para alcançar mais crianças e desencadear seu potencial inexplorado.
+Primeiro, dados do censo de 2020 demonstram a presença de cerca de 24 mil crianças superdotadas [1]. Contudo, o CEDET de Poços de Caldas atende a apenas uma parcela pequena delas. Essa diferença sugere a importância de ampliar nossas ações para alcançar mais crianças e desencadear seu potencial inexplorado.
 
 Segundo, em relação ao problema da escassez de profissionais qualificados em TI, a abordagem prática e focada em robótica pode ajudar a diminuir essa defasagem. A demanda por profissionais nesse campo tem se intensificado, prejudicando a competitividade das empresas e a inovação tecnológica do país. Ao concentrar nossos esforços em introduzir pelo menos 20 crianças à área de TI, buscamos não apenas direcionar o desenvolvimento de futuros talentos, mas também aliviar o impacto do déficit de profissionais qualificados na indústria.
 
