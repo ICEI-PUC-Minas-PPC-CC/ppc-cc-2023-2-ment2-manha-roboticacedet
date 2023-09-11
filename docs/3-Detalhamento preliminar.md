@@ -10,7 +10,7 @@ A cada aula, iremos nos reunir antes e realizar a montagem do que será usado e 
 |                | • Explicação Arduino, Protoboard, Resistores e IDE | 30 minutos |
 |                | • Vídeos de projetos feitos com Arduino | 30 minutos |
 |                | • Funções setup() e loop() | 10 minutos |
-|                | • Saídas digitais e a função pinMode() | 10 minutos |
+|                | • Saídas digitais e as funções pinMode() e digitalWrite() | 10 minutos |
 |                | • Montagem dos componentes e simulações no Tinkercad | 20 minutos |
 |                | • Atividades e desafios relacionados ao acendimento de um LED | 20 minutos |
 | ---- | ------------------------------------------------------------------------ | ------------------- |
