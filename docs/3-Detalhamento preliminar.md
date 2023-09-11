@@ -19,7 +19,8 @@ A cada aula, iremos nos reunir antes e realizar a montagem do que será usado e 
 | <!-- ✔️ --> 2 | • Funções delay() | 5 minutos |
 |                | • Explicação de funcionamento do Buzzer e a função tone() | 10 minutos |
 |                | • Montagem dos componentes e simulações no Tinkercad | 10 minutos |
-|                | •  <i>Atividades e desafios relacionados a criação de um semáforo</i> | 40 minutos |  <!-- Semáforo e Semáforo com Som -->
+|                | • digitalWrite() usando HIGH e LOW | 5 minutos |
+|                | •  <i>Atividades e desafios relacionados a criação de um semáforo</i> | 35 minutos |  <!-- Semáforo e Semáforo com Som -->
 |                | • Explicação de funcionamento do PushButton e a função digitalRead() | 25 minutos |
 |                | • <b>Laços Condicionais</b> | 10 minutos |
 |                | •  <i>Atividades e desafios relacionados a utilização do PushButton</i> | 50 minutos |  <!-- Ativar Semáforo e Ativar Buzzer -->
