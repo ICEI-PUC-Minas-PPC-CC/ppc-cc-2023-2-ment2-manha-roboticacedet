@@ -90,7 +90,7 @@ os alunos tinham um compromisso no CEPOC e muitos faltaram.
 # Conclusão CEPOC
 Os alunos do CEPOC tiveram muita dificuldade com a matéria, as aulas se resumiram muito a eles copiarem os códigos e a nós resolver os problemas de montagem deles.
 Não estava ocorrendo o desenvolvimento dos projetos como esperado, tendo isso em vista, optamos por deixa-los copiar do projetor. A ideia para o CEDET é integrar os
-alunos no conteúdo, não dar folga para copiar os códigos.
+alunos no conteúdo, não dar folga para copiar os códigos, e incentivar o uso do Tinkercad em casa.
 
 
 # Cronograma CEDET
