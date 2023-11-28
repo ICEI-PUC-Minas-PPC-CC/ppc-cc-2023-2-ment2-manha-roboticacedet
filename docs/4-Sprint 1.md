@@ -86,6 +86,12 @@ Nessa aula o conteúdo previsto foi extrapolado, portanto foi improvisado uma re
 durante todas as outras aulas, no caso, era um sensor de movimento que ativava um alarme e fechava um portão, que poderia ser desabilitado por um botão. Um problema foi que
 os alunos tinham um compromisso no CEPOC e muitos faltaram.
 <br><br>
+# Registros CEPOC
+<img src = "https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2023-2-ment2-manha-roboticacedet/assets/67561023/135d48f3-3e35-4339-87a3-560e49757e39" height = 200>
+<img src = "https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2023-2-ment2-manha-roboticacedet/assets/67561023/b4e58d0c-e298-47eb-9b55-2ff6bfd0da87" height = 200>
+<img src = "https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2023-2-ment2-manha-roboticacedet/assets/67561023/3e1b136c-19b0-43de-be76-be0e91b6117c" height = 200>
+<img src = "https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2023-2-ment2-manha-roboticacedet/assets/67561023/135d48f3-3e35-4339-87a3-560e49757e39" height = 200>
+<img src = "https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2023-2-ment2-manha-roboticacedet/assets/67561023/1c03e650-6bb7-49f6-9932-d56761650168" height = 200>
 
 # Conclusão CEPOC
 Os alunos do CEPOC tiveram muita dificuldade com a matéria, as aulas se resumiram muito a eles copiarem os códigos e a nós resolver os problemas de montagem deles.
