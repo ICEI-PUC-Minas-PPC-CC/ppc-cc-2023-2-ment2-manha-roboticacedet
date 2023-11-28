@@ -4,10 +4,12 @@ Anteriormente, o curso foi oferecido para o CEPOC. O cronograma do CEPOC foi ada
 A princípio, como no CEDET, não será utilizado material em slides, apenas lousa, porém se necessário,
 será usado o [Tinkercad](https://www.tinkercad.com/users/bd2Ti2WDJJd?category=circuits&sort=likes&view_mode=default).
 
-A cada aula, ocorrera previamente a montagem do que será usado e escrever a matéria na lousa para não desperdiçar tempo.
+A cada aula, ocorrera previamente a montagem do que será usado e a escrita da matéria na lousa para não desperdiçar tempo.
 
 # Cronograma CEPOC
-As aulas do CEPOC começaram no final de uma semana entre 14/09 e 15/09 e terminou no inicio de outra entre os dias 18/09 e 20/09.
+As aulas do CEPOC começaram no final de uma semana entre 14/09 e 15/09 e terminou no inicio de outra entre os dias 18/09 e 20/09. As aulas foram das 14h30 a 17h00, com duração
+total de 2h30.
+
 ## 14/09/2023 - Quinta-feira
 | Aula | Descrição do conteúdo a ser abordado                                     | Tempo necessário |
 | ---- | ------------------------------------------------------------------------ | -------------------------- |
@@ -53,7 +55,7 @@ foi gasto muito tempo em um tema, percorrendo ele de forma redundante, denovo e 
 |               | • <b>Intervalo</b> | 20 minutos |
 |               | • <i>Continuação das atividades e desafios relacionados ao funcionamento do Servo-motor</i> | 40 minutos | 
 
-Antes de ensinar o Potenciômetro foi passado uma atividade relacionada à aula anterior, no caso, era acionar um semáforo por um botão, exceto isso, tudo
+Antes de ensinar o Potenciômetro foi passado uma atividade de fixação relacionada à aula anterior, no caso, era acionar um semáforo por um botão, no entanto tudo
 ocorreu perfeitamente.
 <br><br>
 
@@ -85,9 +87,17 @@ durante todas as outras aulas, no caso, era um sensor de movimento que ativava u
 os alunos tinham um compromisso no CEPOC e muitos faltaram.
 <br><br>
 
+# Conclusão CEPOC
+Os alunos do CEPOC tiveram muita dificuldade com a matéria, as aulas se resumiram muito a eles copiarem os códigos e a nós resolver os problemas de montagem deles.
+Não estava ocorrendo o desenvolvimento dos projetos como esperado, tendo isso em vista, optamos por deixa-los copiar do projetor. A ideia para o CEDET é integrar os
+alunos no conteúdo, não dar folga para copiar os códigos.
+
 
 # Cronograma CEDET
 
+Anteriormente o planejamento para o CEDET era também de 5 aulas, porém foi informado que seriam 4 após o <a .
+Como serão 4 aulas, a quinta aula referente ao cronograma do CEPOC sobre sensor-ultrassonico será removida. 
+As aulas serão uma por semana, nos dias, 31/10, 7/11, 14/11, 20/11 das 14h00 a 16h30, com duração total de 2h30.
 
 | Aula | Descrição do conteúdo a ser abordado                                     | Tempo necessário |
 | ---- | ------------------------------------------------------------------------ | -------------------------- |
