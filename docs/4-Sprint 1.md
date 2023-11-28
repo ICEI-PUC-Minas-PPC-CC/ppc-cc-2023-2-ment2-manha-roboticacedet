@@ -7,7 +7,7 @@ será usado o [Tinkercad](https://www.tinkercad.com/users/bd2Ti2WDJJd?category=c
 A cada aula, ocorrera previamente a montagem do que será usado e a escrita da matéria na lousa para não desperdiçar tempo.
 
 # Cronograma CEPOC
-As aulas do CEPOC começaram no final de uma semana entre 14/09 e 15/09 e terminou no inicio de outra entre os dias 18/09 e 20/09. As aulas foram das 14h30 a 17h00, com duração
+As aulas do CEPOC ocorreram em sequência nos dias 14/09, 15/09, 18/09, 19/09, 20/09. As aulas foram das 14h30 a 17h00, com duração
 total de 2h30.
 
 ## 14/09/2023 - Quinta-feira
@@ -69,7 +69,7 @@ ocorreu perfeitamente.
 |              | • <i>Continuação das atividades e desafios relacionados ao funcionamento do Potenciômetro</i> | 1 hora e 10 minutos | <!-- Maquina de Lavar -->
 
 O planejamento não ocorreu como esperado, principalmente na parte do motor de passo, pois houve uma certa desavença no grupo sobre como
-esse tema deveria ser abordado.
+esse tema deveria ser abordado. E não deu tempo para o uso do potenciômetro, que consideramos irrelevante para a próxima aula.
 <br><br>
 
 
