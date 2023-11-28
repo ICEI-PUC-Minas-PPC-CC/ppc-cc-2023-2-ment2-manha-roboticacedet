@@ -95,7 +95,7 @@ alunos no conteúdo, não dar folga para copiar os códigos.
 
 # Cronograma CEDET
 
-Anteriormente o planejamento para o CEDET era também de 5 aulas, porém foi informado que seriam 4 após a realização do <a href="docs/3-Detalhamento preliminar.md"> Detalhamento Preliminar </a>.
+Anteriormente o planejamento para o CEDET era também de 5 aulas, porém foi informado que seriam 4 após a realização do <a href="3-Detalhamento preliminar.md"> Detalhamento Preliminar </a>.
 Como serão 4 aulas, a quinta aula referente ao cronograma do CEPOC sobre sensor-ultrassonico será removida. 
 
 As aulas serão uma por semana, nos dias, 31/10, 7/11, 14/11, 20/11 das 14h00 a 16h30, com duração total de 2h30.
