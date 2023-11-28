@@ -69,7 +69,7 @@ ocorreu perfeitamente.
 |              | • <i>Continuação das atividades e desafios relacionados ao funcionamento do Potenciômetro</i> | 1 hora e 10 minutos | <!-- Maquina de Lavar -->
 
 O planejamento não ocorreu como esperado, principalmente na parte do motor de passo, pois houve uma certa desavença no grupo sobre como
-esse tema deveria ser abordado. E não deu tempo para o uso do potenciômetro, que consideramos irrelevante para a próxima aula.
+esse tema deveria ser abordado. E não deu tempo para o uso do potenciômetro, que consideramos irrelevante para a próxima aula e para o CEDET.
 <br><br>
 
 
