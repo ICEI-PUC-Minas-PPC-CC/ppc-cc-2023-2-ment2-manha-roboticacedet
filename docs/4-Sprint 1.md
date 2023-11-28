@@ -7,7 +7,7 @@ será usado o [Tinkercad](https://www.tinkercad.com/users/bd2Ti2WDJJd?category=c
 A cada aula, ocorrera previamente a montagem do que será usado e a escrita da matéria na lousa para não desperdiçar tempo.
 
 # Cronograma CEPOC
-As aulas do CEPOC ocorreram em sequência nos dias 14/09, 15/09, 18/09, 19/09, 20/09. As aulas foram das 14h30 a 17h00, com duração
+As aulas do CEPOC ocorreram em sequência nos dias 14/09, 15/09, 18/09, 19/09, 20/09 das 14h30 a 17h00, com duração
 total de 2h30.
 
 ## 14/09/2023 - Quinta-feira
@@ -95,8 +95,9 @@ alunos no conteúdo, não dar folga para copiar os códigos.
 
 # Cronograma CEDET
 
-Anteriormente o planejamento para o CEDET era também de 5 aulas, porém foi informado que seriam 4 após o <a .
+Anteriormente o planejamento para o CEDET era também de 5 aulas, porém foi informado que seriam 4 após a realização do <a href="docs/3-Detalhamento preliminar.md"> Detalhamento Preliminar </a>.
 Como serão 4 aulas, a quinta aula referente ao cronograma do CEPOC sobre sensor-ultrassonico será removida. 
+
 As aulas serão uma por semana, nos dias, 31/10, 7/11, 14/11, 20/11 das 14h00 a 16h30, com duração total de 2h30.
 
 | Aula | Descrição do conteúdo a ser abordado                                     | Tempo necessário |
@@ -130,4 +131,3 @@ As aulas serão uma por semana, nos dias, 31/10, 7/11, 14/11, 20/11 das 14h00 a 
 |              | • <i>Atividades e desafios relacionados ao funcionamento do Potenciômetro</i> | 1 hora | <!-- Maquina de Lavar -->
 |              | • <b>Intervalo</b> | 20 minutos |
 |              | • <i>Continuação das atividades e desafios relacionados ao funcionamento do Potenciômetro</i> | 1 hora e 10 minutos | <!-- Maquina de Lavar -->
-| ----- | ------------------------------------------------------------------------------------------------------------------------ | ------------------ |
