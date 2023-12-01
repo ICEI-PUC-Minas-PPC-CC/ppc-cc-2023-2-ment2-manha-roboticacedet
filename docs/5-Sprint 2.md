@@ -62,8 +62,8 @@ Nesta aula começamos com o exercício que não tinha sido terminado na aula ant
 <img src = "https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2023-2-ment2-manha-roboticacedet/assets/138339001/6f473031-dcf8-4c0f-b2b6-9e572c76c3a7)" height = 200>
 
 # Conclusão CEDET
-Os alunos do CEDET tiveram muita facilidade com a matéria, eles se adapataram perfeitamente aos problemas dados para eles
-O desenvolvimento correu como o esperado e parece que incentivamos eles a seguirem esaa carreira.
+Os alunos do CEDET tiveram muita facilidade com a matéria, eles se adapataram perfeitamente aos problemas dados para eles.
+O desenvolvimento transcorreu como o esperado e fizemos questão de ensinar o passo a passo para aprender programação, já que muitos se interessaram.
 
 # CERTIFICADO
 <img src = "https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2023-2-ment2-manha-roboticacedet/assets/138339001/82d56699-e0d5-4d52-8929-2bd8f8095a84)" height = 200>
