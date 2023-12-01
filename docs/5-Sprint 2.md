@@ -47,21 +47,15 @@ As aulas serão uma por semana, nos dias, 31/10, 7/11, 14/11, 20/11 das 14h00 a 
 |              | Nesta aula começamos com o exercício que não tinha sido terminado e apresentamos todo o Sensor Ultrassônico assim acabando todo o conteúdo bem a tempo do final da aula| |
 
 # Registros CEDET
-<img src = "![image](https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2023-2-ment2-manha-roboticacedet/assets/138339001/e70549bf-d1a6-4232-b124-7ede87ef7fe6)
-" height = 200>
-<img src = "![image](https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2023-2-ment2-manha-roboticacedet/assets/138339001/f2066fee-6225-406b-a3a2-30a1d233c53f)
-" height = 200>
-<img src = "![image](https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2023-2-ment2-manha-roboticacedet/assets/138339001/52bea546-2e2f-47d9-a71f-c42d0d3205dd)
-" height = 200>
-<img src = "![image](https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2023-2-ment2-manha-roboticacedet/assets/138339001/fa4a1e60-b818-44ce-96af-1841ee51ed18)
-" height = 200>
-<img src = "![image](https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2023-2-ment2-manha-roboticacedet/assets/138339001/6f473031-dcf8-4c0f-b2b6-9e572c76c3a7)
-" height = 200>
+<img src = "https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2023-2-ment2-manha-roboticacedet/assets/138339001/e70549bf-d1a6-4232-b124-7ede87ef7fe6" height = 200>
+<img src = "https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2023-2-ment2-manha-roboticacedet/assets/138339001/f2066fee-6225-406b-a3a2-30a1d233c53f" height = 200>
+<img src = "https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2023-2-ment2-manha-roboticacedet/assets/138339001/52bea546-2e2f-47d9-a71f-c42d0d3205dd" height = 200>
+<img src = "https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2023-2-ment2-manha-roboticacedet/assets/138339001/fa4a1e60-b818-44ce-96af-1841ee51ed18)" height = 200>
+<img src = "https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2023-2-ment2-manha-roboticacedet/assets/138339001/6f473031-dcf8-4c0f-b2b6-9e572c76c3a7)" height = 200>
 
 # Conclusão CEDET
 Os alunos do CEDET tiveram muita facilidade com a matéria, eles se adapataram perfeitamente aos problemas dados para eles
 O desenvolvimento correu como o esperado e parece que incentivamos eles a seguirem esaa carreira.
 
 # CERTIFICADO
-<img src = "![image](https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2023-2-ment2-manha-roboticacedet/assets/138339001/82d56699-e0d5-4d52-8929-2bd8f8095a84)
-" height = 200>
+<img src = "https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2023-2-ment2-manha-roboticacedet/assets/138339001/82d56699-e0d5-4d52-8929-2bd8f8095a84)" height = 200>
