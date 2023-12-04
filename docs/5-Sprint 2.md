@@ -60,6 +60,8 @@ Nesta aula começamos com o exercício que não tinha sido terminado na aula ant
 <img src = "https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2023-2-ment2-manha-roboticacedet/assets/138339001/52bea546-2e2f-47d9-a71f-c42d0d3205dd" height = 200>
 <img src = "https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2023-2-ment2-manha-roboticacedet/assets/138339001/fa4a1e60-b818-44ce-96af-1841ee51ed18)" height = 200>
 <img src = "https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2023-2-ment2-manha-roboticacedet/assets/138339001/6f473031-dcf8-4c0f-b2b6-9e572c76c3a7)" height = 200>
+<img src = "https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2023-2-ment2-manha-roboticacedet/assets/67561023/fe23cd3f-5d43-46fc-ade4-36a44461a765)" height = 200>
+
 
 # Conclusão CEDET
 Os alunos do CEDET tiveram muita facilidade com a matéria, eles se adapataram perfeitamente aos problemas dados para eles.
