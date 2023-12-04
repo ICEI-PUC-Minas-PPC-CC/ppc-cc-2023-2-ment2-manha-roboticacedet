@@ -99,7 +99,9 @@ As aulas serão uma por semana, nos dias, 31/10, 7/11, 14/11, 20/11 das 14h00 a 
 |                | • Funções setup() e loop() 
 |                | • Saídas digitais, as funções pinMode() usando apenas a constante OUTPUT, e digitalWrite() usando apenas HIGH 
 |                | •  <i>Atividades e desafios relacionados ao acendimento de um LED</i> 
-| ----- | ------------------------------------------------------------------------------------------------------------------------ | 
+
+| Aula | Descrição do conteúdo a ser abordado                                     | 
+| ---- | ------------------------------------------------------------------------ |
 | <!-- ✔️ --> 2   | • Funções delay() 
 |                | • Explicação de funcionamento do Buzzer e a função tone() 
 |                | • digitalWrite() usando HIGH e LOW
@@ -107,10 +109,14 @@ As aulas serão uma por semana, nos dias, 31/10, 7/11, 14/11, 20/11 das 14h00 a 
 |                | • Laços Condicionais 
 |                | • Explicação de funcionamento do PushButton e a função digitalRead() 
 |                | •  <i>Atividades e desafios relacionados a utilização do PushButton</i> 
-| ----- | ------------------------------------------------------------------------------------------------------------------------ | 
+
+| Aula | Descrição do conteúdo a ser abordado                                     | 
+| ---- | ------------------------------------------------------------------------ |
 | <!-- ✔️ --> 3  | • Explicação de funcionamento do Potenciômetro e a função analogRead() 
 |               | • Explicação de funcionamento do Servo-motor, da biblioteca <Servo.h> e a função map() 
 |               | • <i>Atividades e desafios relacionados ao funcionamento do Servo-motor</i> 
-| ----- | ------------------------------------------------------------------------------------------------------------------------ | 
+
+| Aula | Descrição do conteúdo a ser abordado                                     | 
+| ---- | ------------------------------------------------------------------------ |
 | <!-- ✔️ --> 4 | • Explicação de funcionamento do Motor de Passo, da biblioteca <Stepper.h>, e sua analogia com o Servo-Motor 
 |              | • <i>Atividades e desafios relacionados ao funcionamento do Potenciômetro</i> 
