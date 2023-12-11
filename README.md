@@ -13,6 +13,7 @@
 ## Professor
 
 - Luciana De Nardin
+- Diego Roberto Gonçalves de Pontes
 
 # Documentação
 
@@ -26,8 +27,3 @@
 | ETAPA 6 | <a href="docs/6-Apresentação do Projeto.md"> Apresentação e entrega finais do projeto</a> |
 | ETAPA 7 | Preenchimento dos formulários referentes a prática extensionista no sistema APC <br> Atualização/entrega do porftólio| 
 | ETAPA 8 | Atualização do portfólio
-
-# Código
-
-<li><a href="src/README.md"> Código Fonte</a></li>
-
